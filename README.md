@@ -1,3 +1,5 @@
+Enter markdown text into the top window. It will be converted to HTML and displayed in the bottom window using MarkedJS.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
